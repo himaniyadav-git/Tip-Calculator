@@ -22,7 +22,7 @@ This project helps users quickly calculate the tip amount and total bill per per
 ---
 
 ## 📸 Preview  
-![Tip Calculator Screenshot](screenshot.png)  
+![Tip Calculator Screenshot](tipCalculator/Screenshot.png)  
 *(Replace with an actual screenshot of your project)*  
 
 ---
