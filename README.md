@@ -27,4 +27,4 @@ This project helps users quickly calculate the tip amount and total bill per per
 
 ---
 
-## 📂 Project Structure  
+
